@@ -1,0 +1,46 @@
+n -29
+29
+n indefinit
+-29
+l (1 2)
+indefinit
+indefinit
+x ()
+()
+(1)
+indefinit
+indefinit
+number #0
+4
+5
+-4
+diff #2
+-1
+* #2
+20
+factorial #1
+24
+sum-integers #2
+15
+abs #1
+3
+3
+exponencial #2
+16
+Variables:
+l (1 2)
+n -29
+x ()
+Operacions:
+* #2
+abs #1
+diff #2
+exponencial #2
+factorial #1
+number #0
+sum-integers #2
+
+
+
+
+
